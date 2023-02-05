@@ -20,6 +20,6 @@
 
 Полезные ссылки:
 
-* [Решение]()
+* [Решение](https://github.com/AlexandrYarin/Motorica_project/blob/main/solution.ipynb)
 * [Само соревнование](https://www.kaggle.com/competitions/motorica-gesture-classification-task/leaderboard)
 * [Сайт компании Моторика](https://motorica.org/)
